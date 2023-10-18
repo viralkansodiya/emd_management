@@ -6,7 +6,6 @@
   ## Introduction:
   Earnest Money Deposit (EMD) is a sum of money required from bidders as a commitment to participate seriously. It serves as financial assurance and is typically a percentage of the bid amount or a fixed amount. The EMD is held by the government agency or organization conducting the bidding/auction. If the bidder wins but fails to fulfil contractual obligations, the EMD may be forfeited. Understanding EMD requirements is crucial for bidders.
   
-[![PNG - 5  How to Manage EMD in ERPNext](https://user-images.githubusercontent.com/18363620/233313402-17d55d15-0183-406f-b40e-ebd55f5699c3.png)](https://youtu.be/oArobHyygSQ)
 
   ## Why do you Need this App in ERPNext:
    1. Streamlined EMD Management: An EMD app in ERPNext can help you centralize and automate the management of EMDs, making it easier to track, record, and manage EMD transactions in a systematic manner.
